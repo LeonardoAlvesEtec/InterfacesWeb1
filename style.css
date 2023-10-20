@@ -2,7 +2,7 @@
     background-color: purple;
     height: 200px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: nowrap;
     justify-content: center;
 }
